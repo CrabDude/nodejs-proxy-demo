@@ -17,7 +17,10 @@ Completed:
 * [] Optional: Supports HTTPS
 * [] Optional: `-h` argument prints CLI API
 
-![Video Walkthrough](name of your gif file.gif)
+Walkthrough Gif:
+**(Set GIF URL)**:
+
+![Video Walkthrough](walkthrough.gif)
 
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
